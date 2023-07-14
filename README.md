@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bhuvanaraparla
 - 👀 I’m an Inquistive person
 - 🌱 I’m currently pursuing Btech 3rd year
-- 💞️ I’m looking to collaborate on ...
 - 📫 Email me:bhuvanaraparla7677@gmail.com
 
 <!---
