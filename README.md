@@ -1,6 +1,6 @@
 -  Hi 👋 , I’m Bhuvana Raparla
 - 👀 I'm an inquisitive individual with a passion for exploring new concepts.
-- 🌱 Currently pursuing B.Tech 3rd year in Computer Science, focusing on Python, Java, with proficiency in data structures and algorithms.
+- 🌱 Currently pursuing B.Tech 4th year in Computer Science, focusing on Python, Java, with proficiency in data structures and algorithms.
 - 💼 Experienced in Git and GitHub for efficient code collaboration and management.
 - 🚀 Eager to contribute to technology advancements and continuous learning.
 # Connect me
